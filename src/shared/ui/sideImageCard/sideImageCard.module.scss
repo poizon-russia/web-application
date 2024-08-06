@@ -1,0 +1,22 @@
+.image {
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 1350px) {
+  .image {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .image {
+    max-width: 550px;
+  }
+}
+
+@media (max-width: 864px) {
+  .image {
+    display: none;
+  }
+}
