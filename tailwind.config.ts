@@ -22,6 +22,7 @@ const config = {
         border: '#ADADAD',
         grey: '#ADADAD',
         primary: '#00E5FF',
+        active: '#2563EB',
       },
       borderRadius: {
         lg: 'var(--radius)',

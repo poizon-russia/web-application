@@ -1,0 +1,16 @@
+.icon {
+  color: #78716c;
+  &:hover {
+    color: black;
+  }
+}
+.activeIcon {
+  color: white;
+}
+
+.icon,
+.activeIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
